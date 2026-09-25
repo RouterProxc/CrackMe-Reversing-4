@@ -27,22 +27,7 @@ Main не подает признаков вменяемости из за че�
 <img width="644" height="532" alt="image" src="https://github.com/user-attachments/assets/c6e3ca36-67ec-44a3-98e5-22140ff0b4c1" />
 
 
-Обратите внимание на функцию которую я пометил как CREATE_FUNC - это ошибочное суждение , на самом деле распаковка происходит в функции выше (сам алгоритм распаковки не буду обьяснять)
-
-
-<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/3e4999b0-d895-4e85-b4f0-f1d80afe97b8" />
-
-
-Переходит в sub_7FF6ADC2128C
-
-
-<img width="484" height="384" alt="image" src="https://github.com/user-attachments/assets/50cd9bfd-bce9-445b-b999-5051286e9026" />
-
-Где и используются данные по адресу подпрограммы с реальной логикой
-
-Жду пока данные раскроются в рантайме и перехожу по адресу подпрограммы
-
-Нахожу по передаче аргументов реальный main 
+Обратите внимание на функцию выше *create func* -  там и происходит распаковка (название Create func - ошибочно)
 
 <img width="820" height="604" alt="image" src="https://github.com/user-attachments/assets/038af1ee-7b87-4bb5-a969-ab663992618b" />
 
