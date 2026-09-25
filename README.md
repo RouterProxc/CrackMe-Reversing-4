@@ -27,7 +27,7 @@ Main не подает признаков вменяемости из за че�
 <img width="644" height="532" alt="image" src="https://github.com/user-attachments/assets/c6e3ca36-67ec-44a3-98e5-22140ff0b4c1" />
 
 
-Обратите внимание на функцию которую я пометил как CREATE_FUNC
+Обратите внимание на функцию которую я пометил как CREATE_FUNC - это ошибочное суждение , на самом деле распаковка происходит в функции выше (сам алгоритм распаковки не буду обьяснять)
 
 
 <img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/3e4999b0-d895-4e85-b4f0-f1d80afe97b8" />
